@@ -1,0 +1,75 @@
+1. Archery
+2. Badminton
+3. Baseball
+4. Basketball
+5. BMX
+6. Bocce
+7. Bowling
+8. Boxing
+9. Broomball
+10. Cheerleading
+11. Cricket
+12. Croquet
+13. Cross Country Running
+14. Curling
+15. Cycling (Competitively)
+16. Dance
+17. Darts
+18. Deck Shuffleboard
+19. Disc Golf
+20. Diving
+21. Dodgeball
+22. Equine Sports
+23. Fencing
+24. Field Hockey
+25. Figure Skating
+26. Fishing
+27. Floor Hockey
+28. Foosball
+29. Football (American)
+30. Golf
+31. Gymnastics
+32. Handball (American)
+33. Hang Gliding
+34. Horseshoes
+35. Ice Hockey
+36. Kayaking or Canoeing
+37. Kickball
+38. Lacrosse
+39. Martial Arts
+40. Mountain Biking
+41. Netball
+42. Pickleball
+43. Polo (Horse)
+44. Pool (Billiards)
+45. Powerlifting
+46. Racquetball
+47. Rock Climbing
+48. Rounders
+49. Rowing
+50. Rugby
+51. Sailing
+52. Shooting
+53. Skateboarding
+54. Skiing (Downhill or Cross-Country)
+55. Skydiving
+56. Snowboarding
+57. Soccer (Football)
+58. Softball
+59. Squash
+60. Surfing
+61. Swimming (Competitively)
+62. Table Tennis (Ping-Pong)
+63. T-Ball
+64. Team Handball
+65. Tennis
+66. Tetherball
+67. Track and Field
+68. Ultimate Frisbee
+69. Volleyball
+70. Wake Boarding
+71. Wallyball
+72. Water Polo
+73. Water Skiing
+74. White Water Rafting
+75. Wrestling
